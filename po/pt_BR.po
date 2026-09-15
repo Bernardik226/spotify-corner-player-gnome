@@ -1,0 +1,41 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Corner Player for Spotify\n"
+"PO-Revision-Date: 2026-09-15 20:00-0300\n"
+"Last-Translator: Bernardo\n"
+"Language-Team: Portuguese (Brazil)\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+msgid "Widget enabled"
+msgstr "Widget ativo"
+
+msgid "Screen side"
+msgstr "Lado da tela"
+
+msgid "Left"
+msgstr "Esquerdo"
+
+msgid "Right"
+msgstr "Direito"
+
+msgid "Exit"
+msgstr "Sair"
+
+msgid "Open Spotify"
+msgstr "Abrir Spotify"
+
+msgid "Nothing playing"
+msgstr "Nada tocando"
+
+msgid "Previous track"
+msgstr "Faixa anterior"
+
+msgid "Play or pause"
+msgstr "Reproduzir ou pausar"
+
+msgid "Next track"
+msgstr "Próxima faixa"

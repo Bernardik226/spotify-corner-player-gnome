@@ -1,0 +1,9 @@
+{
+  "uuid": "corner-player@bernardik226.github.io",
+  "name": "Corner Player for Spotify",
+  "description": "Reveal a compact Spotify player from either lower screen edge. Unofficial and not affiliated with Spotify.",
+  "shell-version": ["50"],
+  "gettext-domain": "corner-player@bernardik226.github.io",
+  "settings-schema": "org.gnome.shell.extensions.spotify-corner-player",
+  "url": "https://github.com/Bernardik226/spotify-corner-player-gnome"
+}

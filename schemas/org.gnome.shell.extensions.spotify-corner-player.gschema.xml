@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+  <schema id="org.gnome.shell.extensions.spotify-corner-player"
+          path="/org/gnome/shell/extensions/spotify-corner-player/">
+    <key name="enabled" type="b">
+      <default>true</default>
+      <summary>Enable the corner player</summary>
+    </key>
+    <key name="side" type="s">
+      <default>'left'</default>
+      <summary>Screen edge used to reveal the player</summary>
+    </key>
+  </schema>
+</schemalist>
